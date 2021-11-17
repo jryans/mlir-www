@@ -1,0 +1,4 @@
+<map id="mlir::linalg::comprehensive_bufferize::PostAnalysisStep" name="mlir::linalg::comprehensive_bufferize::PostAnalysisStep">
+<area shape="rect" id="node2" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1linalg__ext_1_1InitTensorEliminationStep.html" title="mlir::linalg::comprehensive\l_bufferize::linalg_ext::\lInitTensorEliminationStep" alt="" coords="260,5,460,61"/>
+<area shape="rect" id="node3" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1linalg__ext_1_1InsertSliceAnchoredInitTensorEliminationStep.html" title="Try to eliminate InitTensorOps inside funcOp that are anchored on an InsertSliceOp, i.e., if it is eventually inserted into another tensor (and some other conditions are met). " alt="" coords="508,5,825,61"/>
+</map>

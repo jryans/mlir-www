@@ -1,0 +1,31 @@
+<map id="include/mlir/Dialect/Linalg/ComprehensiveBufferize/ComprehensiveBufferize.h" name="include/mlir/Dialect/Linalg/ComprehensiveBufferize/ComprehensiveBufferize.h">
+<area shape="rect" id="node2" href="$BufferizableOpInterface_8h.html" title="mlir/Dialect/Linalg\l/ComprehensiveBufferize\l/BufferizableOpInterface.h" alt="" coords="2642,199,2834,255"/>
+<area shape="rect" id="node14" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="2105,631,2222,657"/>
+<area shape="rect" id="node35" href="$Dialect_2Tensor_2IR_2Tensor_8h.html" title="mlir/Dialect/Tensor\l/IR/Tensor.h" alt="" coords="1551,109,1695,151"/>
+<area shape="rect" id="node3" href="$BlockAndValueMapping_8h.html" title="mlir/IR/BlockAndValueMapping.h" alt="" coords="2621,407,2855,433"/>
+<area shape="rect" id="node5" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2015,317,2149,344"/>
+<area shape="rect" id="node16" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1692,713,1843,739"/>
+<area shape="rect" id="node23" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="2033,481,2179,508"/>
+<area shape="rect" id="node29" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="2223,407,2383,433"/>
+<area shape="rect" id="node4" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="2457,631,2574,657"/>
+<area shape="rect" id="node6" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1330,407,1493,433"/>
+<area shape="rect" id="node7" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1131,481,1257,508"/>
+<area shape="rect" id="node8" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1686,556,1881,583"/>
+<area shape="rect" id="node20" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1449,631,1611,657"/>
+<area shape="rect" id="node9" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="2246,631,2433,657"/>
+<area shape="rect" id="node11" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="2104,795,2223,821"/>
+<area shape="rect" id="node10" href="$BuiltinAttributeInterfaces_8h.html" title="mlir/IR/BuiltinAttribute\lInterfaces.h" alt="" coords="2630,705,2798,747"/>
+<area shape="rect" id="node13" href="$SubElementInterfaces_8h.html" title="mlir/IR/SubElementInterfaces.h" alt="" coords="2382,713,2606,739"/>
+<area shape="rect" id="node15" href="$UseDefLists_8h.html" title="mlir/IR/UseDefLists.h" alt="" coords="2199,713,2357,739"/>
+<area shape="rect" id="node24" href="$IR_2Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="2065,556,2222,583"/>
+<area shape="rect" id="node25" href="$IR_2Region_8h.html" title="mlir/IR/Region.h" alt="" coords="2347,556,2473,583"/>
+<area shape="rect" id="node36" href="$Arithmetic_8h.html" title="mlir/Dialect/Arithmetic\l/IR/Arithmetic.h" alt="" coords="746,206,917,247"/>
+<area shape="rect" id="node37" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="1667,317,1870,344"/>
+<area shape="rect" id="node39" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="1054,317,1281,344"/>
+<area shape="rect" id="node40" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="1305,310,1491,351"/>
+<area shape="rect" id="node45" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="1255,206,1453,247"/>
+<area shape="rect" id="node46" href="$InferTypeOpInterface_8h.html" title="mlir/Interfaces/InferType\lOpInterface.h" alt="" coords="1963,206,2145,247"/>
+<area shape="rect" id="node47" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="2169,206,2349,247"/>
+<area shape="rect" id="node41" href="$VectorInterfaces_8h.html" title="mlir/Interfaces/VectorInterfaces.h" alt="" coords="791,317,1029,344"/>
+<area shape="rect" id="node38" href="$DialectInterface_8h.html" title="mlir/IR/DialectInterface.h" alt="" coords="1532,407,1717,433"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mlir::linalg::comprehensive_bufferize::BufferizationState" name="mlir::linalg::comprehensive_bufferize::BufferizationState">
+<area shape="rect" id="node2" href="$classmlir_1_1linalg_1_1comprehensive__bufferize_1_1BufferizationAliasInfo.html" title="The BufferizationAliasInfo class maintains a list of buffer aliases and equivalence classes to suppor..." alt="" coords="433,49,668,91"/>
+<area shape="rect" id="node3" href="$classmlir_1_1BlockAndValueMapping.html" title="mlir::BlockAndValueMapping" alt="" coords="447,115,655,142"/>
+<area shape="rect" id="node4" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1AllocationCallbacks.html" title="Callback functions that are used to allocate/deallocate/copy memory buffers. " alt="" coords="439,167,662,208"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::Operation *\&gt;" alt="" coords="477,272,625,313"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="51,312,199,353"/>
+</map>

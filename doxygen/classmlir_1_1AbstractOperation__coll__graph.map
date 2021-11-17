@@ -1,0 +1,4 @@
+<map id="mlir::AbstractOperation" name="mlir::AbstractOperation">
+<area shape="rect" id="node2" href="$classmlir_1_1TypeID.html" title="This class provides an efficient unique identifier for a specific C++ type. " alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Dialect.html" title="Dialects are groups of MLIR operations, types and attributes, as well as behavior associated with the..." alt="" coords="237,5,340,32"/>
+</map>
